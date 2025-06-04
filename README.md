@@ -1,4 +1,4 @@
-# Social Network Analysis of Faculty Teaching Load
+# Social Network Analysis of Faculty of Engineering and Technology
 Faculty of Engineering and Technology, University of Sindh
 
 # 📌 Purpose
